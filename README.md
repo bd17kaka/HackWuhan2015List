@@ -13,6 +13,7 @@
 * [张典](https://github.com/bd17kaka)
 
 ##产品预览
+![image](https://raw.githubusercontent.com/bd17kaka/HackWuhan2015List/master/pics/lbs_tucao.jpg)
 
 
 请在此行文字前添加项目信息，格式见 样例 welife智能家居-测试项目一 
